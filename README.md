@@ -18,4 +18,4 @@ Im not currently programming too much, but Im trying to get into it again
 ###### (not enabled yet)
 
 ----
-![Kako](./files/Arusu2.svg)
+![Evil Kako](./files/Marina.svg)![Kako](./files/Arusu2.svg)
