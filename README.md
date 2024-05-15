@@ -2,7 +2,7 @@ Hii guys, Im Kako, Im some random ass Chilean Dev guy
 
 I like AI's, `node.js` and this Anime girl that you probably have already seen on my profile:
 
-![Marina Arusu](./files/Marina.png) ![Maria Arusu](./files/Maria.png)
+![Marina Arusu](./files/Marina.png "Marina Arusu") ![Maria Arusu](./files/Maria.png "Maria Arusu")
 
 
 
@@ -18,4 +18,4 @@ Im not currently programming too much, but Im trying to get into it again
 ###### (not enabled yet)
 
 ----
-![Evil Kako](./files/Marina.svg)![Kako](./files/Arusu2.svg)
+![Evil Kako](./files/Marina.svg "Evil Kako")![Kako](./files/Arusu2.svg "Kako")
