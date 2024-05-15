@@ -17,4 +17,4 @@ Im not currently programming too much, but Im trying to get into it again
 ###### (not enabled yet)
 
 ----
-![Kako](./files/Arusu.svg)
+![Kako](./files/Arusu2.svg)
